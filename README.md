@@ -16,3 +16,4 @@ mended) npm
 
 cd vue-demo
 npm run dev
+npm run build
